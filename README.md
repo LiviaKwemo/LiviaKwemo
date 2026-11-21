@@ -1,6 +1,6 @@
 # Hi there, I'm Livia Kwemo 👋
 
-# 📊 Data Analytics | Business Intelligence | Data Science | Data Engineering
+### 📊 Data Analytics | Business Intelligence | Data Science | Data Engineering
 
 🎓 Master's Student in Data Engineering & Analytics at Polytechnique Montréal, Canada.
 
